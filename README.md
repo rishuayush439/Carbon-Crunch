@@ -7,7 +7,7 @@ CarbonCrunch is a modern web application designed to help companies track, minim
 
 ## Live Demo
 
-**URL**: 
+**URL**: https://carbon-crunch-omega.vercel.app/
 ## Technologies Used
 
 This project leverages a modern technology stack for optimal performance and developer experience:
